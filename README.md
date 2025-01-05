@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-🔭 I’m currently working as a Full Stack Web Developer, React Native developer, fellow animator at MuLearn, GenAI intern at Talrop, webmaster at IEEE MEA SB, and Master Tutor at Steyp.
+🔭 I’m currently working as a <B>Full Stack Web Developer, React Native developer, fellow animator at MuLearn, GenAI intern at Talrop, webmaster at IEEE MEA SB, and Master Tutor at Steyp</B> And also i wam student of ktu University.
 
 🌱 I’m currently learning advanced web development and diving deeper into entrepreneurship.
 
