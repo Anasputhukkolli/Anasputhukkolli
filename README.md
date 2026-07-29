@@ -1,24 +1,68 @@
-# 💫 About Me:
-Hi there! 👋<br><br>🚀 About Me<br><br>I’m a Full Stack Web Developer, React Native Developer, GenAI Intern at Talrop, Fellow Animator at MuLearn, Webmaster at IEEE MEA SB, and Master Tutor at Steyp. I'm also a student at KTU University, passionate about technology, design, and innovation.<br><br>🌱 Currently Exploring<br><br>Advanced Web Development & Full Stack Technologies<br><br>Entrepreneurship & Business Strategies<br><br>Generative AI & Emerging Tech<br><br><br>🤝 Let's Collaborate!<br><br>I'm eager to work on innovative tech-driven projects and dynamic web applications. If you're building something exciting, let's connect!<br><br>💡 Looking for Help<br><br>I'm actively improving my English communication skills and refining my entrepreneurial strategies—any insights are welcome!<br><br>🔥 Fun Fact<br><br>Nothing much I am friendly for every one <br><br>💬 Ask Me About<br><br>Web Development (React, Django, Full Stack)<br><br>Generative AI & Tech Innovations<br><br>Creative Tech Gift Ideas (like CodeTank!)<br><br><br>📫 Connect With Me<br><br>Reach out through my linked in platform . Let's create something awesome together! for or future 
+# Hi, I'm Muhammed Anas 👋
 
+Full Stack Developer & React Native Developer | B.Tech CSE Graduate (2026)
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/anasputhukkolli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-puthukkolli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasputhukkolli09@gmail.com) 
+I build scalable web applications, AI-powered solutions, and cross-platform mobile apps — from Django backends to Next.js + Supabase full-stack products with custom design systems.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anasputhukkolli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anasputhukkolli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasputhukkolli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🎓 B.Tech Computer Science and Engineering, MEA Engineering College (Graduated 2026)
+- 💼 Full Stack & Mobile Application Developer, Generative AI Intern, and Master Tutor at Talrop / Steyp
+- 🛠️ Technical Lead (Part-Time) at Kalkus — Digital Studio
+- 🌐 Web Master & IAS Vice Chairperson at IEEE MEA Student Branch
+- 📚 Currently exploring advanced full-stack architecture, Generative AI, and entrepreneurship
+- 🤝 Open to collaborating on innovative, tech-driven projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 Experience
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anasputhukkolli&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Talrop / Steyp** — *Nov 2022 – 2026*
+- Full Stack & Mobile Application Developer Intern — built Python/Django web apps and React Native mobile apps
+- Generative AI Intern — developed AI-powered applications and automation solutions
+- Master Tutor — mentored students in Python and full-stack development
+
+**Kalkus – Digital Studio** — *Sep 2025 – Present*
+- Technical Lead (Part-Time) — led website development and technical project delivery
+
+**ZappQ – Doctor Booking Application** — *Mar 2025 – Oct 2025*
+- Web Developer (Part-Time) — developed and maintained web applications and application features
+
+**TACS MEA** — *May 2025 – Mar 2026*
+- Student Lead — organized technical workshops and hackathons
+
+**IEEE MEA Student Branch** — *Jan 2024 – 2026*
+- Web Master & IAS Vice Chairperson — managed the IEEE website and led student technical initiatives
+
+## 🧩 Featured Projects
+
+- **Smart Shopping Cart System (RFID + AI)** — RFID-based smart cart with automated billing, AI-powered product recommendations, and a companion mobile app for real-time cart sync
+- **College Event Management System** — Django-based event management platform with AI-powered poster generation and participant management
+- **AI Chatbot** — LLM-powered chatbot delivering company-specific information from organizational data
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, JavaScript, SQL
+**Frameworks:** Django, Next.js, React, React Native, REST APIs
+**Databases:** MySQL, PostgreSQL, Firebase, Supabase
+**Web:** HTML5, CSS3, Tailwind CSS
+**Tools & Platforms:** Git, GitHub, Vercel
+**Design:** Figma, Adobe Photoshop, Adobe After Effects
+
+## 📜 Certifications
+
+- Django Full Stack Developer
+- React Native App Developer
+- Seven-Month Industry Experience Certificate (Part-Time Web Developer)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anasputhukkolli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Anasputhukkolli&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasputhukkolli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-puthukkolli)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/anasputhukkolli)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasputhukkolli09@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anasputhukkolli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Anasputhukkolli&icon=0&color=0)](https://visitcount.itsvg.in)
